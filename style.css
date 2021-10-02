@@ -1,0 +1,9 @@
+*{
+    box-sizing:border-box;
+}
+
+.body,head{
+    margin: 30px;
+    background-color: darkslategray;
+}
+
